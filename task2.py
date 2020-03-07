@@ -33,3 +33,4 @@ for i in test_str:
 print("Count of all characters is : "+str(all_freq))
 
 print('Output:',count)
+
